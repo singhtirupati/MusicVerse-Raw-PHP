@@ -1,0 +1,14 @@
+# Files created after installing packages in composer.
+vendor/
+
+# .env contains the credentials of the database.
+.env
+
+# File containing music files.
+music/ 
+
+# Files containing webpage images, logo, banner.
+#img/
+
+# SQL dump file
+*.sql
