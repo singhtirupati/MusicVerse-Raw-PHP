@@ -15,7 +15,6 @@ Music Verse, a full stack music player application demonstrating CRUD operation.
 ------
 
 ## Screenshots
-<!-- ![alt tag]() -->
 ![alt text](assets/img/screenshots/homepage.png "Homepage Page")
 ![alt text](assets/img/screenshots/play-music.png "Nowplaying Page")
 
